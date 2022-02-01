@@ -1,0 +1,15 @@
+C:\Users\AlexH\source\repos\Testlab1\lab210.DAL\bin\Debug\net5.0\lab210.DAL.deps.json
+C:\Users\AlexH\source\repos\Testlab1\lab210.DAL\bin\Debug\net5.0\lab210.DAL.runtimeconfig.json
+C:\Users\AlexH\source\repos\Testlab1\lab210.DAL\bin\Debug\net5.0\lab210.DAL.runtimeconfig.dev.json
+C:\Users\AlexH\source\repos\Testlab1\lab210.DAL\bin\Debug\net5.0\lab210.DAL.dll
+C:\Users\AlexH\source\repos\Testlab1\lab210.DAL\bin\Debug\net5.0\ref\lab210.DAL.dll
+C:\Users\AlexH\source\repos\Testlab1\lab210.DAL\bin\Debug\net5.0\lab210.DAL.pdb
+C:\Users\AlexH\source\repos\Testlab1\lab210.DAL\obj\Debug\net5.0\lab210.DAL.csproj.AssemblyReference.cache
+C:\Users\AlexH\source\repos\Testlab1\lab210.DAL\obj\Debug\net5.0\lab210.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexH\source\repos\Testlab1\lab210.DAL\obj\Debug\net5.0\lab210.DAL.AssemblyInfoInputs.cache
+C:\Users\AlexH\source\repos\Testlab1\lab210.DAL\obj\Debug\net5.0\lab210.DAL.AssemblyInfo.cs
+C:\Users\AlexH\source\repos\Testlab1\lab210.DAL\obj\Debug\net5.0\lab210.DAL.csproj.CoreCompileInputs.cache
+C:\Users\AlexH\source\repos\Testlab1\lab210.DAL\obj\Debug\net5.0\lab210.DAL.dll
+C:\Users\AlexH\source\repos\Testlab1\lab210.DAL\obj\Debug\net5.0\ref\lab210.DAL.dll
+C:\Users\AlexH\source\repos\Testlab1\lab210.DAL\obj\Debug\net5.0\lab210.DAL.pdb
+C:\Users\AlexH\source\repos\Testlab1\lab210.DAL\obj\Debug\net5.0\lab210.DAL.genruntimeconfig.cache

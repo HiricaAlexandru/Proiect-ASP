@@ -1,0 +1,37 @@
+
+<button mat-raised-button (click)="logout()">
+    Logout
+</button>
+<p>modele works! {{loggedUser.username}}</p>
+
+<div class="container">
+
+    <table mat-table [dataSource]="models" class="mat-elevation-z8">
+
+        <!--- Note that these columns can be defined in any order.
+            The actual rendered columns are set as a property on the row definition" -->
+    
+        <!-- Position Column -->
+        <ng-container matColumnDef="id">
+        <th mat-header-cell *matHeaderCellDef> Id. </th>
+        <td mat-cell *matCellDef="let element"> {{element.id}} </td>
+        </ng-container>
+    
+        <!-- Name Column -->
+        <ng-container matColumnDef="nameprod">
+        <th mat-header-cell *matHeaderCellDef> Nume Producator </th>
+        <td mat-cell *matCellDef="let element"> {{element.producator.nume}} </td>
+        </ng-container>
+        
+        <!-- Name Column -->
+        <ng-container matColumnDef="name">
+        <th mat-header-cell *matHeaderCellDef> Name </th>
+        <td mat-cell *matCellDef="let element"> {{element.nume}} </td>
+        </ng-container>
+        
+        
+    
+        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+        <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    </table>
+</div>
